@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a late printed paper, intituled, The case of the creditors of Sir Robert Vyner, who have complyed with his proposals.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17129</idno><idno type="EEBO-CITATION">99887474</idno>
+  <idno type="VID">190431</idno>
+  <idno type="EEBO-PROQUEST">2240895288</idno>
+  
+            <idno type="STC">Wing A3309A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7[6]</idno>
+            <idno type="STC">ESTC R218809</idno>
+            <idno type="STC">ESTC R227701</idno>
+            <idno type="PROQUEST">ocm99887474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887474e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190431)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a late printed paper, intituled, The case of the creditors of Sir Robert Vyner, who have complyed with his proposals.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Viner, Robert, --  Sir, 1631-1688.</term>
+               <term type="topical_term">Debtor and creditor --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:190431:1"/>
+            <head>An ANSWER to a late printed Paper, Intituled, The <hi>Case</hi> of the Creditors of Sir <hi>Robert Vyner,</hi> who have complyed with his <hi>Proposals.</hi>
+            </head>
+            <p>
+               <hi>THat Paper mentions Proposals made and Signed by the greater part of Sir</hi> Robert Vyner's <hi>Creditor, and that the performance thereof was hindred by the Obstinacy of some few of the Creditors, and that the Conforming Creditors were in h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pes to have the benefit of a Bill which was passing, and so to oblige the rest; But the Dissenting Creditors had prevailed upon the Committee, to insert a Proviso, excluding Sir</hi> Robert Vyner's, <hi>Concerns, and unless that Proviso was expunged, the Estate would be torn to pieces, and no equal Distribution could be made and that</hi> 250 <hi>of Sir</hi> Robert Vyner's <hi>Creditors have Subscribed for above</hi> 60000 <hi>l. which is the greater par<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h of Number and Sum.</hi>
+            </p>
+            <p>☞ The Proposals in 1684 were for taking 20 <hi>l. per Cent,</hi> and the whole Interest in Money and the remai<g ref="char:EOLhyphen"/>ning 80 <hi>l. per Cent</hi> by Assignments; and if the Debts were computed together, there will appear due at least 40 <hi>l. per Cent</hi> for Interest on each Bond; so that the Creditors at that rate, must have 60 <hi>l. per Cent.</hi> in Money: But Sir <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert</hi> by his Will, and his Executor in his printed Proposals, Dated the <hi>1st.</hi> Day of <hi>January,</hi> 1689. absol<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely disagree from those Proposals, and mention paying but 30 <hi>l. per Cent.</hi> of the Principal only, which is but half so much in Money as those Proposals were; and by that it seems that those Proposals are now only made use of by the Executor to ensnare, and not to be performed. And it appears by the Management of the Affair, that the Executor is more concerned herein than the Subscri<g ref="char:EOLhyphen"/>bing Creditors.</p>
+            <p>If the major part of Sir <hi>Robert Vyner's</hi> Creditors have Subscribed? The other Creditors are not against their being satisfied accordingly, but they hope they shall not be thereby Concluded; and if they are but <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w, the Executor may more easily comply with them; And Sir <hi>Robert</hi> and his Son being Dead, it is but reasonable that his Estate both Real and personal should be Discovered, (the Executor having hitherto not given in any Inventory, or answered any Bill in Chancery for Discovery thereof) and that the whole Estate should go to pay the just Debts, and not to inrich the Executor, or his Accomplices; nor to be Di<g ref="char:EOLhyphen"/>vided amongst several Relations, and Four Hospitals, according to Sir <hi>Robert's</hi> Will: And if those Credi<g ref="char:EOLhyphen"/>tors who have Signed those former Proposals, Exhibit a Bill in Chancery against the Executor, either that those Proposals should be void or performed, their business will be quickly ended without an Act of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>☞ Several of Sir <hi>Robert Vyner's</hi> Creditors have Judgments, and some have extended several Lands and Tenements of Sir <hi>Robert's</hi> for their Debts, and Sir <hi>Robert</hi> in his Will hath Ordered that the Incumbrances should be first paid, and Sir <hi>Robert</hi> in his life-time did agree with several of the Creditors (who now Pros<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cute) for paying them their whole money; and Mr. <hi>Edwards</hi> (a Creditor of Sir <hi>Robert's</hi>) had long since received his Debt out of Sir <hi>Robert's</hi> Estate, if the Law had not been perverted, and his Pro<g ref="char:EOLhyphen"/>ceedings most unjustly and barbarously granted by a Privy Seal from the late King <hi>James</hi> to <hi>Richard Beauvoyr</hi> Esq; in trust for Sir <hi>Robert</hi> himself, contrary to all Law and Justice, (and Mr. <hi>Russel</hi> (another of Sir <hi>Robert Vyner's</hi> Creditors) had also long since received his Debt, if that Privy Seal had not prevented him; and after such hard Usuage to have the Proviso expunged to oblige the Executor, and to injure real Creditors, is very unreasonable.</p>
+            <p>☞ Sir <hi>Robert</hi> in his life-time always made Complaint of his Losses by the late King <hi>Charles</hi> the II., and his Executor revives the same Complaint, although there is no need; for Sir <hi>Robert (Consideratis Conside<g ref="char:EOLhyphen"/>randis)</hi> was a great Gainer. Sir <hi>Robert</hi> began his Concerns with his late Majesty, in 1660 and Lent his late Majesty Mony; and in the Year 1667. he had 14 Hundred Thousand pounds in his Majesties Hands; and he had for the most part 12 <hi>per Cent</hi> and never less then 10 <hi>per Cent.</hi> and Interest often cast up and made Principal; and after this rate, before the Exchequer was shut up; it will appear by the Accompts s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ated from time to time, that he was at least 2 Hundred Thousand pounds Gainer before the time of shut<g ref="char:EOLhyphen"/>ting up the Exchequer; and Sir <hi>Robert</hi> being fearful of a prosecution for his extorting Usury, did in <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1672 procure his Pardon for Usury.</p>
+            <p>☞ The Exchequer was shut up in <hi>December</hi> 1671. and Sir <hi>Robert's</hi> Accompts were stated and made up to the 1st. of <hi>January</hi> 1676 (being 5 Years after) and Sir <hi>Robert</hi> had Privy Seals for Gratuities and Rewards, and for keeping Money in readiness, and such like Contrivances, inserted in that Accompt, which amount to above 100000 <hi>l.</hi> clear Gains, as will appear by that Accompt, which is now in the hands of Mr. <hi>Aldworth:</hi> And some of the Creditors did in Sir <hi>Robirt Vyner's</hi> life-time, after they had perused that Accompt, Petition the then Lords of the Treasury for a Copy thereof, which the Lords were plea<g ref="char:EOLhyphen"/>sed to Grant, and it was Copyed by Mr. <hi>Aldworth;</hi> But before the Creditors could obtain the Copy, Sir <hi>Robert</hi> got an Order privately to hinder the same.</p>
+            <p>☞ That Accompt with the aforesaid Gains inserted, amuonted to 416724 <hi>l.</hi> 13 <hi>s.</hi> 1 <hi>d.</hi> halfpenny: And Sir <hi>Robert</hi> in his life time Assigned all that (except 60000 <hi>l.</hi> and the Interest thereof from <hi>Lady-Day</hi> 1683.) to his Creditors for full value, and took up his Bonds; so that he hath already assign'd Forty Thousand pounds more than he had in the Exchequer when the Exchequer was shut up; &amp; now according to their own Paper, as many Creditors have Signed to take 80 <hi>l. per Cent</hi> by Assignments, to the value of 60000 <hi>l.</hi> which will almost clear the remainder; and Sir <hi>Robert</hi> was always more behind with his Creditors for In<g ref="char:EOLhyphen"/>trest than the Exchequer was with him, whereby his Gains are clear without loss.</p>
+            <p>
+               <hi>Whither (these things being Considered) Sir</hi> Robert Vyner's <hi>Concerns, ought not to be Excepted out of the Bankrupts Bill, is humbly offered.</hi>
+            </p>
+            <pb facs="tcp:190431:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
